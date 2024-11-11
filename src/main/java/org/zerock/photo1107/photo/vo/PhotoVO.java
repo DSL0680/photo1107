@@ -1,11 +1,11 @@
-package org.zerock.photo1107;
+package org.zerock.photo1107.photo.vo;
 
 import lombok.Data;
 import lombok.Getter;
 
 @Data
 @Getter
-public class ResultVO {
+public class PhotoVO {
 
     private String result;
 }
